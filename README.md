@@ -5,8 +5,8 @@ But this is also developed by same concept, but it for Developers community-app,
 easly intract with another developer as well 
 
 # Language Used in this project:
- --HTML & CSS
- --python  with django
+ - HTML & CSS
+ - python  with django
 
 # Home page:
 ![image](https://github.com/hariz723/Devbook-django-portfolio/assets/110483479/f21deb29-24db-4d36-818f-ec80dae57c19)
