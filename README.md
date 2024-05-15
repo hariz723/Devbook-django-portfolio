@@ -10,6 +10,7 @@ easly intract with some other developer as well
 
 # Home page:
 - Based on there language Rooms Created by admin and they categorize on the top of left side,
+- At the right side top recenty activity can show, if someone post anything, and there commands & online status as well.
 
 ![image](https://github.com/hariz723/Devbook-django-portfolio/assets/110483479/f21deb29-24db-4d36-818f-ec80dae57c19)
 # Room page:
@@ -36,6 +37,12 @@ easly intract with some other developer as well
  - you can easly modify your messages by using edit button
    
 ![image](https://github.com/hariz723/Devbook-django-portfolio/assets/110483479/f0d5bf9b-e31f-463a-941b-bc69a9b3582c)
+
+# Posting message: 
+ - Just type and then press enter you and your community members can see your messages
+
+![image](https://github.com/hariz723/Devbook-django-portfolio/assets/110483479/ef806a11-2d6f-41f2-bea6-fcf47ec42304)
+
 
 
 
