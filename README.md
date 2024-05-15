@@ -29,6 +29,15 @@ easly intract with some other developer as well
 # Signup page:
 ![image](https://github.com/hariz723/Devbook-django-portfolio/assets/110483479/c93b0415-1edc-4a2d-a608-8519e0d654cb)
 
+# Delete page:
+![image](https://github.com/hariz723/Devbook-django-portfolio/assets/110483479/0ab8873e-c181-407b-88b7-a4d136825583)
+
+# Edit pager:
+ - you can easly modify your messages by using edit button
+   
+![image](https://github.com/hariz723/Devbook-django-portfolio/assets/110483479/f0d5bf9b-e31f-463a-941b-bc69a9b3582c)
+
+
 
 
 
