@@ -1,6 +1,6 @@
 # Devbook-django-portfolio
 
-Hii! welcome! this is my django project which based on the discord-chat app, discard app for gamers community for the intract with another gamer while they playing games,
+Hii! welcome! this is my django project which based on the discard-chat app, discard app for gamers community for the intract with another gamer while they playing games,
 But this is also developed by same concept, but it for Developers community app they can intract with another person or they having any doubt about their domain they can, easly intract with
 another developer as well 
 
